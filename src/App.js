@@ -17,7 +17,8 @@ function App() {
   return (
     <>
       <div className="container">
-        <h1>suryamani kumar</h1>
+        <h1>Random Background Color Changer App</h1>
+        <h6>---SURYAMANI KUMAR----</h6>
         <button className="btn" onClick={handleClick}>
           click
         </button>
