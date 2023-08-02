@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/backgroundColor-changer-app/static/css/main.7d5243c1.css",
+    "main.js": "/backgroundColor-changer-app/static/js/main.8e2f7390.js",
+    "static/js/787.4111bae1.chunk.js": "/backgroundColor-changer-app/static/js/787.4111bae1.chunk.js",
+    "index.html": "/backgroundColor-changer-app/index.html",
+    "main.7d5243c1.css.map": "/backgroundColor-changer-app/static/css/main.7d5243c1.css.map",
+    "main.8e2f7390.js.map": "/backgroundColor-changer-app/static/js/main.8e2f7390.js.map",
+    "787.4111bae1.chunk.js.map": "/backgroundColor-changer-app/static/js/787.4111bae1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d5243c1.css",
+    "static/js/main.8e2f7390.js"
+  ]
+}
